@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #242424ee;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+p
+
+{
+ margin-left: 20%;
+ text-align: justify;
+ margin-top: 5%;
+ font-size: 25px;
+}
+    
+span
+  {
+    color: #d64eff;
+  }
+
+h1
+{
+    font-size: 400%;
+    color: aliceblue;
+    font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;  
+    text-align: center;
+    margin-top: 10%;
+}
+
+p
+{
+    color: aliceblue;
+    font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;  
+}
+
+a
+{
+    font-size: 160%;
+    margin-left: 50%;
+    font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;  
+    color: aliceblue;
+    text-decoration: none;
+}

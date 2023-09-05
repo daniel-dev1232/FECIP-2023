@@ -1,0 +1,186 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #242424ee;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+  
+
+ .actions
+
+
+ ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  
+  color: #222222;
+  padding: 10px ; 
+  border-radius: 5px;
+}
+
+ul {
+  margin-left: -30%;
+  list-style: none; 
+  text-align: center; 
+}
+
+li {
+  display: inline; 
+  margin: 0 20px;
+  color: #2b2b2b;
+}
+
+a {
+  background-color: #ffffff;
+  font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;  
+  text-decoration: none; 
+  color: #181818;
+  font-size: 20px; 
+}
+
+a:hover {
+  color: #639ece; 
+}
+
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+header nav ul {
+  display: flex;
+  list-style: none;
+}S
+
+header nav ul li {
+  margin-right: 20px;
+}
+
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 5.5rem;
+    margin-bottom: 20px;
+    color: #000000;
+    
+  }
+  
+
+
+
+      .QSN
+      {
+        font-size: 450%;
+        margin-left: -90%;
+        margin-top: 15%;
+        color: #ffffff;
+        position: fixed;
+        font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;    
+                          
+     }
+    
+
+  .QSN1
+  {
+    position: fixed;
+    font-size: 250%;
+    margin-left: -90%;
+    margin-top: 20%;
+    color: #ffffff;
+    font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;  
+
+  }
+
+  span
+  {
+    color: #d64eff;
+  }
+
+
+.resumo
+{
+  position: fixed;
+  margin-left: -90%;
+  margin-top: 24%;
+  font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;  
+  font-size: 150%;
+  color: #ffffff;
+}
+
+.formulario 
+{
+  font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;  
+  position: fixed;
+  margin-top: 15%;
+  margin-left: -29% ;
+  width: 420px;
+  padding: 20px;
+  background-color: #333; /* Cor de fundo cinza escura */
+  color: #fff; /* Cor do texto branco */
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.678);
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"] {
+    width: 96%;
+    padding: 10px;
+    border: 1px solid #555; /* Cor da borda cinza escura */
+    border-radius: 5px;
+    background-color: #ffffff; /* Cor de fundo cinza mais escura */
+    color: #000000; /* Cor do texto branco */
+    font-family: 'Montserrat','Raleway','Helvetica','Arial',sans-serif;  
+}
+
+
+button[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #3498db; /* Cor de fundo azul */
+  color: #fff; /* Cor do texto branco */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.bolha 
+{
+  position: absolute;
+  margin-top: 40%;
+  margin-left: -55%;
+  width: 200px; /* Largura da bolha */
+  height: 100px; /* Altura da bolha */
+  background: linear-gradient(45deg, rgba(223, 185, 223, 0.7) 50%, transparent 50%),
+  linear-gradient(135deg, transparent 50%, rgba(255, 255, 255, 0.7) 50%);
+  border-radius: 20px; /* Raio das bordas para criar a forma arredondada */
+  padding: 20px; /* Espaçamento interno para o conteúdo */
+}
+
+
+.logo
+{
+  font-size: 40%;
+}
+
